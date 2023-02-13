@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: https://github.com/koldtea/frontendmentor-challenges/tree/main/qr-code
-- Website Preview: https://htmlpreview.github.io/?https://github.com/koldtea/frontendmentor-challenges/blob/main/qr-code/index.html
+- Website Preview: https://koldtea.github.io/qr-code-challenge/
 
 ### Built with
 - Semantic HTML5 markup
